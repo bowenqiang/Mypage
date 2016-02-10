@@ -1,0 +1,10 @@
+#container{
+}
+#sidebar{
+  width: auto;
+  float:left;
+}
+#main{
+  width:auto;
+  float:right;
+}
